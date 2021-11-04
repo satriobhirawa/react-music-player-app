@@ -1,6 +1,14 @@
-#React Music Player
+# React Music Player
 
 Simple music player where we can select the song from the library and skip back and forward with autoplay on after the previous song ended.
+
+init:
+
+```
+npm create-react-app
+npm install node-sass
+npm install uuidv4
+```
 
 
 
