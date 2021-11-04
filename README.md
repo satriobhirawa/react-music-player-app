@@ -5,7 +5,7 @@ Simple music player where we can select the song from the library and skip back 
 init:
 
 ```
-npm create-react-app
+npx create-react-app
 npm install node-sass
 npm install uuidv4
 ```
