@@ -1,0 +1,35 @@
+.library-song-container{
+    display: flex;
+    align-items: center;
+
+    img{
+        width:30%;
+        border-radius: 10px;
+    }
+
+    .song-description{
+        display:flex;
+        flex-direction: column;
+
+
+        h4{
+            padding: 0rem 1rem 1rem 1rem;
+            color: #c9bccb;
+            font-size: 0.8em;
+        }
+
+        h3{
+            color: white;
+        }
+
+    }
+
+
+    &:hover{
+        background-color:#210b4b !important;
+    }
+}
+
+.selected {
+    background-color: #9817a967 !important;
+}
